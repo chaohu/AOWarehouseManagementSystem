@@ -1,0 +1,2 @@
+# AOWarehouseManagementSystem
+QT对达梦数据库的操作实例示范，简易仓储管理系统
